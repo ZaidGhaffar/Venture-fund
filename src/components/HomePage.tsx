@@ -142,7 +142,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="space-y-4">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="src\assets\Vendor-cart.jpg"
                 alt="Problem illustration 1"
                 className="rounded-lg object-cover w-full"
               />
@@ -153,7 +153,7 @@ export default function HomePage() {
             </div>
             <div className="space-y-4">
               <img
-                src="/placeholder.svg?height=200&width=300"
+                src="src\assets\software.jpg"
                 alt="Problem illustration 2"
                 className="rounded-lg object-cover w-full"
               />
